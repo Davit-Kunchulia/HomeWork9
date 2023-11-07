@@ -2,14 +2,16 @@
     max-width: 1440px;
     width: 100%;
     margin: auto;
-    padding-top: 38px;
+    padding-top: 46px;
 }
 
+
+/* header */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px 130px;
+    padding: 9px 130px;
     position: fixed;
     max-width: inherit;
     width: inherit;
@@ -17,8 +19,9 @@ header {
     left: 50%;
     transform: translateX(-50%);
     z-index: 1;
+    
 }
-
+.menu{display: none;}
 .logo_div {
     display: flex;
     align-items: center;
@@ -52,3 +55,6 @@ li {
     column-gap: 40px;
     align-items: center;
 }
+
+/* section1 */
+.section1{height: 550px;}
