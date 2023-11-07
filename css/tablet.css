@@ -12,3 +12,8 @@
         
 
 }
+
+@media (max-width: 660px) {
+    nav{display: none;}
+    .menu{display: block;}
+}
