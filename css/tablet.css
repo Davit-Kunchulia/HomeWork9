@@ -41,5 +41,5 @@
     }
 
     /* section2 */
-    .section2_div{display: flex; flex-direction: column; column-gap: 24px;}
+    .section2_div{display: flex; flex-direction: column; row-gap: 24px;}
 }
