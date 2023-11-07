@@ -1,4 +1,4 @@
-@media (max-width: 840px) {
+@media (max-width: 835px) {
 
     /* header */
     header {
@@ -6,14 +6,32 @@
     }
 
 
-    /* section1 */
-    .section1{height: 438px;}
-     
-        
+
+
+
+
 
 }
 
 @media (max-width: 660px) {
-    nav{display: none;}
-    .menu{display: block;}
+    nav {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+
+    }
+}
+
+@media (max-width:605px) {
+    .section1_h {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section1_p {
+        font-size: 14px;
+        line-height: 22px;
+    }
 }
