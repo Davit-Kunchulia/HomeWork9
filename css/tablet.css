@@ -1,6 +1,14 @@
-@media (max-width: 840px){
-    header{
+@media (max-width: 840px) {
+
+    /* header */
+    header {
         padding-inline: 67px;
     }
+
+
+    /* section1 */
+    .section1{height: 438px;}
+     
+        
 
 }

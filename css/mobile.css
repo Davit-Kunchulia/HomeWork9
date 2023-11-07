@@ -1,4 +1,6 @@
 @media (max-width:380px) {
+
+    /* header */
     nav {
         display: none;
     }
@@ -11,5 +13,18 @@
         padding-inline: 14px;
 
     }
+
+    /* section1 */
+
+    .section1_h {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section1_p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
 
 }
