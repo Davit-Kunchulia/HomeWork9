@@ -10,3 +10,9 @@
     ;}
 
 }
+
+@media (max-width:450px){
+
+    /* section2 */
+.section2{padding-inline: 14px;}
+}

@@ -8,7 +8,9 @@
 
     /* section2 */
 
-.section2{padding-inline: 67px;}
+    .section2 {
+        padding-inline: 67px;
+    }
 
 
 
@@ -41,5 +43,14 @@
     }
 
     /* section2 */
-    .section2_div{display: flex; flex-direction: column; row-gap: 24px;}
+
+    .section2 {
+        padding-inline: 80px;
+    }
+
+    .section2_div {
+        display: flex;
+        flex-direction: column;
+        row-gap: 24px;
+    }
 }
