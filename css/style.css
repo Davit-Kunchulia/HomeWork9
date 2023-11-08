@@ -156,8 +156,8 @@ li {
 
 /* section3 */
 .section3 {
-    padding: 0 131px 230px 130px; 
-   
+    padding: 0 131px 230px 130px;
+
 }
 
 .section3_h {
@@ -208,5 +208,24 @@ li {
 }
 
 
-.sectore3_articlediv{position: relative;}
-.sector3_article{position: absolute; margin-left: 37px;}
+.sectore3_articlediv {
+    position: relative;
+}
+
+.sector3_article {
+    position: absolute;
+    margin-left: 37px;
+}
+
+/* footer */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.footer_h {
+    color: white;
+    margin-left: 14px;
+}
